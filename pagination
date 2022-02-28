@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Association Jeunes & Sportifs</title>
+	<link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" media="screen and (max-width: 700px)" href="phone.css" type="text/css" />
+</head>
+
+<body>
+	<header class="container-fluid header"></header>
+  <h1>Association Jeunes & Sportifs</h1>
+  
+  <main>
+	<section class="container-fluid banner">
+
+		<div class="landing-page">
+		<h2>Rejoignez-nous!</h2>
+
+		<img src="https://images.pexels.com/photos/9654716/pexels-photo-9654716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="">
+        </div>
+          </section>
+  </main>
+  
+  <main>
+    <section class="container-fluid about">
+      <div class="container">
+      <div class="row">
+        <article class="col-md-4 col-lg-4 col-xs-12bcol-sm-12">
+          <h3> Inscrire son enfant à l’association sportive, ça a du bon !</h3>
+          <p>
+
+Il favorise aussi l’apprentissage de la responsabilité et de la citoyenneté.
+La bonne santé et le plaisir ne sont pas les seuls avantages qui découlent de la pratique d’une activité sportive. Le sport constitue également une source d’apprentissage aussi riche que ludique et facilite l’insertion dans la société. Si l’existence d’une association sportive dans les écoles du premier degré découle de l’initiative des enseignants ou des parents, dans le second degré, chaque établissement possède obligatoirement une association sportive, présidée par le chef d’établissement, qui propose aux élèves une ou plusieurs disciplines. Celles-ci sont dispensées sur le temps périscolaire, le plus souvent le mercredi après-midi, mais aussi, selon les établissements, pendant la pause méridienne.
+Une opportunité qui comporte de nombreux avantages par comparaison à une inscription en club. 
+
+          </p>
+        </article>
+      </div>
+      </div>
+      <article class="col-md-4 col-lg-4 col-xs-12bcol-sm-12">
+        <h3>Les parents peuvent aussi s’investir</h3>
+          <p>
+
+Mais au-delà des ces considérations purement pratiques, le sport scolaire possède de nombreux autres atouts. Il permet par exemple aux parents de s’impliquer dans la vie de l’école par le biais de l’association sportive qu’ils peuvent animer et dynamiser – dans le secondaire, un parent d’élève peut même en devenir le vice-président. « Il faut bien préciser qu’il s’agit de sport scolaire et non pas de sport à l’école. Les activités sportives sont élaborées et dispensées par les enseignants et s’intègrent donc à 100% dans le projet de l’établissement.
+          </p>
+      </article>
+    </section>
+<footer class="container-fluid footer">
+  <div class="row">
+    <nav aria-label="Search results pages">
+  <ul class="pagination pagination-lg">
+    <li class="page-item active" aria-current="page">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-double-left" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M8.354 1.646a.5.5 0 0 1 0 .708L2.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z"/>
+  <path fill-rule="evenodd" d="M12.354 1.646a.5.5 0 0 1 0 .708L6.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z"/>
+</svg>
+      <span class="page-link">1</span>
+    </li>
+    <li class="page-item"><a class="page-link" href="#">2</a></li>
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-double-right" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M3.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L9.293 8 3.646 2.354a.5.5 0 0 1 0-.708z"/>
+  <path fill-rule="evenodd" d="M7.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L13.293 8 7.646 2.354a.5.5 0 0 1 0-.708z"/>
+</svg>
+  </ul>
+</nav>
+
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+crossorigin="anonymous"></script>
+</footer>
+</body>
+</html>
