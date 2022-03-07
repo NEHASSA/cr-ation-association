@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	<title>Site Association Jeunes & Sportifs</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+	<header>
+    <nav>
+      <div class="onglets">
+        <a href="">Actualités</a>
+        <a href="">Partenaires</a>
+        <a href="mailto:associationjeunesetsportif.contact@.gmail.com">Contact</a>
+      </div>
+    </nav>
+    <div class="principal">
+      <h3>Journée nationale du sport scolaire</h3>
+      <p>
+        Promouvoir les activités des associations et des fédérations sportives scolaires auprès des élèves, des équipes éducatives, des parents d'élèves et du monde sportif local : telles sont les ambitions de la journée nationale du sport scolaire, qui a lieu chaque année en septembre dans la France entière. En 2022, la journée du Sport scolaire a lieu le mercredi 22 septembre. 
+      </p>
+     <img="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.education.gouv.fr%2Fjournee-nationale-du-sport-scolaire-5423&psig=AOvVaw2xJP2zUtLquMS5xeremKv6&ust=1646760475437000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjZmYLDtPYCFQAAAAAdAAAAABAK">
+    </div>
+  </header>
+  <footer>
+    <nav aria-label="...">
+  <ul class="pagination pagination-lg">
+    <li class="page-item active"><a class="page-link" href"index.html">1</a></li>
+    <li class="page-item active"><a class="page-link" href="page 2.html">2</a></li>
+  </ul>
+</nav>
+  </footer>
+</body>
+</html>
